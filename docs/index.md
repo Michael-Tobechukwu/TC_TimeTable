@@ -1,37 +1,94 @@
-## Welcome to GitHub Pages
+<!doctype html>
+<html>
 
-You can use the [editor on GitHub](https://github.com/Michael-Tobechukwu/TC_TimeTable/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+<head>
+    <meta charset="utf-8">
+    <link href="TC.png" rel="icon" type="icon">
+    <title>TENDER CRADLE SCHOOL</title>
+</head>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<body>
+    <center>
+        <img src="TC.png" alt-text="TENDER CRADLE SCHOOL" <br>
 
-### Markdown
+        <h1>TENDER CRADLE SCHOOL</h1>
+        <hr>
+        <div style="background-color: aqua; width: 250px; border-radius: 2%; padding: 0.5%">
+            <h5 style="color: white; font-size: 15px;">13, Dipeolu street, Ikeja, Lagos.</h5>
+        </div>
+        <div>
+            <marquee direction="right" scrollamount="4">
+                <h3 style="color: aqua;"><i>...raising a total child.</i>
+                </h3>
+        </div>
+        </marquee>
+    </center>
+    <table border="1" width="60%" cellpadding="10px" border-style="" cellspacing="0" align="center">
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+        <tr>
+            <th style="font-size: 250%; height: 80px; background-color: orange; " colspan="12" ;>TIME TABLE FOR GRADE 6
+            </th>
+        </tr>
 
-```markdown
-Syntax highlighted code block
+        <tr>
+            <th colspan="4">DAYS</th>
+            <th>1ST PERIOD</th>
+            <th>2ND PERIOD</th>
+            <th>3RD PERIOD</th>
+            <th>4TH PERIOD</th>
+            <th>5TH PERIOD</th>
+            <th>6TH PERIOD</th>
+        </tr>
+        <tr>
+            <th colspan="4">MONDAY</th>
+            <th>Mathematics</th>
+            <th>Chess</th>
+            <th>Coding</th>
+            <th>Literacy</th>
+            <th>Music</th>
+            <th>Creative Arts
 
-# Header 1
-## Header 2
-### Header 3
+            </th>
 
-- Bulleted
-- List
+        </tr>
+        <tr>
+            <th colspan="4">TUESDAY</th>
+            <th>Creative Arts</th>
+            <th>French</th>
+            <th>Quantitative Reasoning</th>
+            <th>French</th>
+            <th>ICT</th>
+            <th>Sports</th>
+        </tr>
+        <tr>
+            <th colspan="4">WEDNESDAY</th>
+            <th colspan="2">Mathematics</th>
+            <th>Chess</th>
+            <th>Sports</th>
+            <th>Music</th>
+            <th>Inter-class Debate</th>
+        </tr>
+        <tr>
+            <th colspan="4">THURSDAY</th>
+            <th>Chess</th>
+            <th>Music</th>
+            <th style="font-size: 190%; " colspan="2">BREAK (LUNCH)</th>
+            <th>Literacy</th>
+            <th>French</th>
 
-1. Numbered
-2. List
+        </tr>
+        <tr>
+            <th colspan="4">FRIDAY</th>
+            <th colspan="2">Coding</th>
+            <th>Verbal Reasoning</th>
+            <th>Sports</th>
+            <th>Literacy</th>
+            <th>Weekly Assessment</th>
+        </tr>
+    </table>
+    <br>
+    <footer style="text-align: center;"> Made with &#10084 by <a href="https://about.me/michaeltobechukwu" target="
+            _blank"> DevTobechukwu</a></footer>
+</body>
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Michael-Tobechukwu/TC_TimeTable/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+</html>
